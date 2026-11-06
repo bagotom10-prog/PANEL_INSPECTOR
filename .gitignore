@@ -1,0 +1,14 @@
+# Carpetas de datos y datasets
+InfraredSolarModules/
+solar_data/
+__MACOSX/
+
+# Entornos virtuales y archivos de Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
